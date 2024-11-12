@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **almost everything webdev to get better at my frontend, as i am already decently experienced with backend.**
 
-- 📫 How to reach me **https://discord.com/users/738324643324100629**
+- 📫 How to reach me **[Discord DM's](https://discord.com/users/738324643324100629)**
 
 - ⚡ Fun fact **cats are apparently a huge load of work....**
 

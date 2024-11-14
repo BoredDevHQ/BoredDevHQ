@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm Chris, I'm from The Netherlands and i'm a mostly beginner coder.<br><br>- 🔭 I’m currently enrolled in High School<br>- 📚 I'm currently learning front end development<br>- ⚡ Did you know i need coffee to survive? :P <br>- *all my code is licensed under the GNU General Public License V3*</p>
+<p align="left">I'm Chris, I'm from The Netherlands and i'm a mostly beginner coder.<br><br>- 🔭 I’m currently enrolled in High School<br>- 📚 I'm currently learning front end development<br>- ⚡ Did you know i need coffee to survive? :P <br>- all my code is licensed under the GNU General Public License V3</p>
 
 ###
 

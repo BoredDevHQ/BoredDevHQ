@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning PHP<br>🎯 Goals: Making a website with html5, css3 as frontend with php and SQL as backend. (informatics assignment)<br>🎲 Fun fact: cats are EPICCC</p>
+<p align="left">📚 I'm currently learning PHP<br>🎯 Goals: Making a website with html5, css3 as frontend with php and SQL as backend. (informatics assignment)<br>🎲 Fun fact: I'm in your walls.</p>
 
 ###
 

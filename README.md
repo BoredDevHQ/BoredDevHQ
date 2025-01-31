@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Chris and I'm a high school, from the Netherlands</p>
+<p align="left">My name is Chris and I'm a high school, from The Kingdom of Netherlands</p>
 
 ###
 

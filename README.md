@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning PHP<br>🎯 Goals: Mastering PHP and learning React + NodeJS.</p>
+<p align="left">📚 I'm currently learning game development and C# in Unity.<br>🎯 Goals: Mastering PHP and learning React + NodeJS.</p>
 
 ###
 

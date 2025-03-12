@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Chris and I'm a high school student from the Netherlands, Which is where i also mostly started learning programming. But i got most of the basics and a lot of help from my father since he works at a tech company, which i will not list for privacy reasons.. I specialize in front-end and making beautiful user experiences. Though my back-end skills are definitely there, i just prefer front-end.  Want to know more? Check my <a href="https://boreddev.nl">Portfolio.</a></p>
+<p align="left">My name is Chris and I'm a high school student from the Netherlands.I specialize in front-end and making beautiful user experiences.  Want to know more? Check my <a href="https://boreddev.nl">Portfolio.</a></p>
 
 
 ###

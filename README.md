@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Chris and I'm a high school student from the Netherlands.I specialize in front-end and making beautiful user experiences.  Want to know more? Check my <a href="https://boreddev.nl">Portfolio.</a></p>
+<p align="left">My name is Chris and I'm a high school student from the Netherlands. I specialize in front-end and making beautiful user experiences.  Want to know more? Check my <a href="https://boreddev.nl">Portfolio.</a></p>
 
 
 ###

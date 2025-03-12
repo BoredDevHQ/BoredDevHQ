@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Chris and I'm a high school student, from the Netherlands. Want to know more? https://boreddev.nl</p>
+<p align="left">My name is Chris and I'm a high school student, from the Netherlands. Want to know more? Check my (Portfolio)[https://boreddev.nl]</p>
 
 ###
 

@@ -17,8 +17,8 @@
 
 <h2 align="left">Active projects:</h2>
 <ul>
-  <li>🌍 <a href="https://github.com/boreddevhq/dash.fm-improved">Dash.fm-improved.</a></li>
-  <li>🖥️ <a href="https://github.com/boreddevhq/zeroday-london">ZeroDay: London.</a></li>
+  <li>📺 <a href="https://github.com/boreddevhq/dash.fm-improved">Dash.fm-improved.</a></li>
+  <li>🖥 <a href="https://github.com/boreddevhq/zeroday-london">ZeroDay: London.</a></li>
 </ul>
 
 ###

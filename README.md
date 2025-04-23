@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning game development and C# in Unity.<br>🎯 Goals: Mastering PHP and learning React + NodeJS.</p>
+<p align="left">📚 I'm currently learning game development in Gamemaker Studio.<br>🎯 Goals: Mastering PHP and learning React + NodeJS.</p>
 
 ###
 
@@ -46,5 +46,20 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
 </div>
+
+###
+###
+
+<h2 align="left">Support Me 💜</h2>
+
+###
+
+<p align="left">
+  If you enjoy my work and want to support what I do, consider buying me a coffee!
+  <br><br>
+  <a href="https://buymeacoffee.com/boreddevhq" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" style="border-radius: 8px;" />
+  </a>
+</p>
 
 ###

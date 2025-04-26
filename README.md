@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning game development in Gamemaker Studio.<br>🎯 Goals: mastering game design and development.</p>
+<p align="left">📚 I'm currently learning game development in Gamemaker Studio.<br>🎯 Goals: Mastering game design and development.</p>
 
 ###
 

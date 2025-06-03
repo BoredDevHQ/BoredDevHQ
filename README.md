@@ -12,6 +12,7 @@
 ###
 
 <p align="left">📚 I'm currently learning game development in Gamemaker Studio.<br>🎯 Goals: Mastering game design and development.</p>
+<p align="left">📚 I'm also learning cybersecurity 101 on TryHackMe, which i am projecting to finish on the 18th of July.</p>
 
 ###
 

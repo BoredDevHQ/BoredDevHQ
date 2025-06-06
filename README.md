@@ -15,9 +15,9 @@
 
 ###
 
-<h2 align="left">Active projects:</h2>
+<h2 align="left">Active project(s):</h2>
 <ul>
-  <li>📺 <a href="https://github.com/boreddevhq/dash.fm-improved">Dash.fm-improved.</a></li>
+  <li>📺 <a href="https://github.com/boreddevhq/brewkernel">Brew Kernel.</a></li>
   <li>🖥 <a href="https://github.com/boreddevhq/zeroday">ZeroDay.</a></li>
 </ul>
 

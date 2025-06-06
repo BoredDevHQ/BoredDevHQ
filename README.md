@@ -17,8 +17,8 @@
 
 <h2 align="left">Active project(s):</h2>
 <ul>
-  <li>📺 <a href="https://github.com/boreddevhq/brewkernel">Brew Kernel.</a></li>
-  <li>🖥 <a href="https://github.com/boreddevhq/zeroday">ZeroDay.</a></li>
+  <li>💾 <a href="https://github.com/boreddevhq/brewkernel">Brew Kernel.</a></li>
+  <li>👾 <a href="https://github.com/boreddevhq/zeroday">ZeroDay.</a></li>
 </ul>
 
 ###

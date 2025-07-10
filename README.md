@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="boreddevhq.png" alt="BoredDevHQ Banner" width="100%" height="auto" style="max-width: 100%; height: auto;" />
+</p>
+
 <h1 align="left">Hey 👋 Welcome to the BoredCafe.</h1>
 
 ###

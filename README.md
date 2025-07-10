@@ -122,16 +122,13 @@
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" />
-      <br>Windows
-    </td>
+  </tr>
+
+  <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="MacOS" />
       <br>MacOS
     </td>
-  </tr>
-  <tr>
     <td align="center" width="100">
       <img src="https://www.svgrepo.com/download/349366/freebsd.svg" width="48" height="48" alt="FreeBSD" />
       <br>FreeBSD
@@ -140,6 +137,10 @@
       <img src="https://www.svgrepo.com/show/306507/openbsd.svg" width="48" height="48" alt="OpenBSD" />
       <br>OpenBSD
     </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" />
+      <br>Windows
+    </td>    
     <td align="center" width="100">
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" width="48" height="48" alt="Android" />
       <br>Android

@@ -118,10 +118,7 @@
       <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" />
       <br>NPM
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
+
   </tr>
 
   <tr>
@@ -129,6 +126,10 @@
       <img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="MacOS" />
       <br>MacOS
     </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>    
     <td align="center" width="100">
       <img src="https://www.svgrepo.com/download/349366/freebsd.svg" width="48" height="48" alt="FreeBSD" />
       <br>FreeBSD

@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">📚 I'm learning game development in GameMaker Studio.<br>🎯 Goal: Create fun and complete games.</p>
+<p align="left">📚 I'm learning low-level programming.<br>🎯 Goal: Improving BrewKernel.</p>
 
 ###
 
@@ -23,7 +23,6 @@
 
 <ul>
   <li>💾 <a href="https://github.com/boreddevhq/brewkernel">Brew Kernel</a> – A bare-metal 64-bit operating system.</li>
-  <li>👾 <a href="https://github.com/boreddevhq/zeroday">ZeroDay</a> – A dystopian RPG built in GameMaker.</li>
 </ul>
 
 

@@ -15,12 +15,15 @@
 
 ###
 
-<p align="left">📚 I'm learning low-level programming.<br>🎯 Goal: Improving BrewKernel.</p>
+<p align="left">📚 I'm learning how to code with microcontrollers (arduino).<br>🎯 Goal: Make a functional project with an Arduino.</p>
 
 ###
 
 <h2 align="left">What I'm Working On</h2>
 
+<ul>
+  <li>🕹️ <a href="https://github.com/BoredDevHQ/facetrack">facetrack</a> – A Simple rduino project that uses the camera (python script) to turn coordinates into degrees for servos attached to an arduino.</li>
+</ul>
 <ul>
   <li>💾 <a href="https://github.com/boreddevhq/brewkernel">Brew Kernel</a> – A bare-metal 64-bit operating system.</li>
 </ul>

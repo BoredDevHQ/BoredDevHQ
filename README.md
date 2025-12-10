@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">📚 I'm learning how to code with microcontrollers (arduino).<br>🎯 Goal: Make a functional project with an Arduino.</p>
+<p align="left">📚 I'm learning how to design proper UX.<br>🎯 Goal: Make a user-friendly design to help elders use computers.</p>
 
 ###
 
